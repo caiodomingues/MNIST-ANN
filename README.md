@@ -12,10 +12,10 @@ O resultado do trabalho pode ser conferido [neste arquivo](https://github.com/ca
 
 ## Grupo (5)
 
-- Caio Domingues
-- Higor Santos
-- Thobias Vicente
-- Vinícius Marcelo
+- [Caio Domingues](https://github.com/caiodomingues)
+- [Higor Santos](https://github.com/higorass02)
+- [Thobias Vicente](https://github.com/thobiasvicente)
+- [Vinícius Marcelo](https://github.com/vniicius)
 
 ## Licença
 
